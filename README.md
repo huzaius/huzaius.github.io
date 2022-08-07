@@ -65,9 +65,15 @@ I am an aspiring data scientist who wishes to use data to solve real world probl
 
 </br>
 
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+## 🌱 I'm currently learning
 
+- FastAPi
+- Docker
+- Alembic
+- Postman
 
 
 ## 📈 GitHub Stats 
@@ -78,4 +84,3 @@ I am an aspiring data scientist who wishes to use data to solve real world probl
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaius&langs_count=10&layout=compact&hide=CSS,SCSS,html,Objective-C)](https://github.com/huzaius)
-
